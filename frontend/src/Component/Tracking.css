@@ -1,0 +1,39 @@
+.col-2{
+    color: white;
+    background-color: black;
+    padding-top: 5em;
+    height: 53.3em;
+    
+}
+.row{
+    margin: 0;
+}
+ul{
+    padding-left: 3em;
+    list-style: none;
+
+}
+li{
+    padding-bottom: 2em;
+}
+ul li:hover{
+    background-color: rgb(43, 43, 43);
+
+}
+.word{
+    color: yellow;
+    /* padding-top: 2em; */
+    padding-left: 4em;
+    padding-bottom: 2.5em;
+    font-size: 1.3em;
+    font-family: 'Playfair Display', serif;
+}
+.output{
+    background-color: rgb(221, 221, 221);
+    width: 95.5%;
+    height: 50em;
+    margin-top: 2em;
+    border-radius: 10px;
+    margin-left: 2em;
+    
+}

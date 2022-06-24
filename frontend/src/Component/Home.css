@@ -1,0 +1,74 @@
+.full{
+    background-color: black;
+    width: 100%;
+    height: 55.4em;
+    margin-top: 0;
+    padding-top: 5em;
+
+}
+.full .container{
+    background-color: yellow;
+    width: 100%;
+    height: 45em;
+    padding-top: 1em;
+}
+.inside{
+    background-color: black;
+    width: 100%;
+    height: 43em;
+    /* padding-top: 10em; */
+    
+
+
+}
+button{
+    width: 15em;
+    height: 3em;
+    background-color: transparent;
+    border-color: yellow;
+    border-radius: 10px; 
+    border-width: 3.3px;
+    font-style: none;
+    list-style: none;
+    color: yellow;
+
+
+}
+Link{
+    font-style: none;
+    list-style: none;
+    color: yellow;
+
+}
+.text{
+    padding-top: -5em;
+    margin-top: -5em;
+    font-size: 1.6em;
+}
+.st{
+    padding-top: 10em;
+}
+LInk{
+    color: yellow;
+    list-style: none;
+}
+h2{
+    color: yellow;
+
+}
+.yellow{
+    padding-top: 8em;
+    /* padding-bottom: 5em; */
+}
+@media only screen and (max-width: 400px) {
+   .full {
+    height: 30.4em;
+    padding-top: 0em;
+      
+    }
+    .text{
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+   
+  }
